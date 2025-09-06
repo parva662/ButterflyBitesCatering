@@ -1,4 +1,4 @@
-import { defineConfig } from "vite";
+ButterflyBitesCateringimport { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
 import path from "path";
 import { componentTagger } from "lovable-tagger";
@@ -18,5 +18,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/' // Since this will be the base directory
+  base: '/ButterflyBitesCatering/' // Since this will be the base directory
 }));
