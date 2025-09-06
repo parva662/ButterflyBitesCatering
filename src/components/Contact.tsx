@@ -91,7 +91,7 @@ const Contact = () => {
               <CardContent className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <Mail className="w-5 h-5 text-primary" />
-                  <span className="text-muted-foreground">maria@mariaskitchen.com</span>
+                  <span className="text-muted-foreground">info@butterflybitescaterings.nl</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-primary" />

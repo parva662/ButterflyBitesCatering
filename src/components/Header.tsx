@@ -18,8 +18,8 @@ const Header = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 rounded-full bg-gradient-to-r from-golden to-sage"></div>
-            <span className="font-bold text-xl text-foreground">Maria's Kitchen</span>
+            <img src="/butterfly-bites-logo.png" alt="Butterfly Bites Logo" className="w-8 h-8 object-contain" />
+            <span className="font-bold text-xl text-foreground">Butterfly Bites</span>
           </div>
 
           {/* Desktop Navigation */}

@@ -5,8 +5,8 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <div className="w-8 h-8 rounded-full bg-gradient-to-r from-golden to-sage"></div>
-              <span className="font-bold text-xl">Maria's Kitchen</span>
+              <img src="/butterfly-bites-logo.png" alt="Butterfly Bites Logo" className="w-8 h-8 object-contain" />
+              <span className="font-bold text-xl">Butterfly Bites</span>
             </div>
             <p className="text-cream/80 leading-relaxed">
               Sharing the art of handmade cuisine and bringing people together around the table, one meal at a time.
@@ -33,7 +33,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-cream/20 mt-8 pt-8 text-center text-cream/60">
-          <p>&copy; 2024 Maria's Kitchen. Made with love and local ingredients.</p>
+          <p>&copy; 2024 Butterfly Bites. Made with love and local ingredients.</p>
         </div>
       </div>
     </footer>

@@ -14,7 +14,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className="text-xl text-muted-foreground leading-relaxed max-w-2xl">
-              Hi, I'm Maria. What started as Sunday dinners for friends has grown into a passion for sharing the art of handmade cuisine. Every dish tells a story, every recipe carries tradition, and every meal brings people together.
+              Welcome to Butterfly Bites! What started as Sunday dinners for friends has grown into a passion for sharing the art of handmade cuisine. Every dish tells a story, every recipe carries tradition, and every meal brings people together.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <Button size="lg" className="bg-gradient-to-r from-golden to-sage hover:from-golden/90 hover:to-sage/90 text-foreground font-medium">
